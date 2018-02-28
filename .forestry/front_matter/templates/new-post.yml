@@ -1,0 +1,11 @@
+---
+pages:
+- _posts/this-is-a-test-post.md
+hide_body: false
+fields:
+- type: textarea
+  name: post_body
+  label: Post Body
+  config:
+    required: true
+    wysiwyg: true
