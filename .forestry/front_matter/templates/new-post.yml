@@ -3,9 +3,7 @@ pages:
 - _posts/2018-02-27-this-is-a-test-post.md
 hide_body: false
 fields:
-- type: textarea
-  name: post_body
-  label: Post Body
-  config:
-    required: true
-    wysiwyg: true
+- type: text
+  name: layout
+  label: Layout
+  default: post
