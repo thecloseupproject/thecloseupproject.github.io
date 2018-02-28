@@ -7,3 +7,20 @@ fields:
   name: layout
   label: Layout
   default: post
+- type: text
+  name: title
+  label: Title
+- type: datetime
+  name: date
+  label: Date
+  default: Invalid date
+- type: tag_list
+  label: Categories
+  name: categories
+- type: text
+  name: author
+  label: Author
+- type: boolean
+  name: comments
+  label: Comments
+  default: true
