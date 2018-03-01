@@ -1,0 +1,24 @@
+﻿<footer class="site-footer h-card">
+    <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+    <div class="wrapper">
+
+        <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+        <div class="footer-col-wrapper">
+            <div class="footer-col footer-col-3">
+                <form action="/search.html" method="get">
+                    <label for="search-box">Search</label>
+                    <input type="text" id="search-box" name="query">
+                    <input type="submit" value="search">
+                </form>
+            </div>
+
+            <div class="footer-col footer-col-3">
+                <p>{{ site.description | escape }}</p>
+            </div>
+        </div>
+
+    </div>
+
+</footer>
