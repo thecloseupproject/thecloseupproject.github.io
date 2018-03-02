@@ -4,7 +4,9 @@ title: Why I Shoot Raw When Shooting Macro
 date: 2013-03-30 01:15
 author: Dave
 comments: true
-categories: [Concepts, editing, Photoshop, post-production, RAW]
+tags: [Concepts, editing, Photoshop, post-production, RAW]
+categories:
+ - "originals"
 ---
 If you ask 10 different photographers why they shoot the file type they do you will get 10 different answers.  Every photographer has their own work flow, partly based on need and partly based on preference.  Whatever your preference or your habit this is why I shoot Raw.
 

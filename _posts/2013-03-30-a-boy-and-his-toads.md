@@ -4,7 +4,9 @@ title: A Boy and His Toads
 date: 2013-03-30 01:00
 author: Dave
 comments: true
-categories: [animals, behind the shot, close-up, Concepts, macro, texture]
+tags: [animals, behind the shot, close-up, Concepts, macro, texture]
+categories:
+ - "originals"
 ---
 Over the summer I was shooting in the acre of gardens at my Mom’s house when my 4 year old son came running up. “Dad. The toad wants to help,” he says. My son loves toads like no other creature. All summer he will go on toad hunts to try and find them, making them toad habitats as he says. He has been paying attention while his brother was doing science. Sometimes he will even put them in the driveway and hop along side to have a toad race.
 

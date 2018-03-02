@@ -4,7 +4,9 @@ title: Hand Held Macro Photography
 date: 2013-04-29 06:00
 author: Dave
 comments: true
-categories: [hand-held, How-Tos/Tutorials, insects]
+tags: [hand-held, How-Tos/Tutorials, insects]
+categories:
+ - "macro-university"
 ---
 Many people have asked if you can shoot macro hand held. Yes you can. There are times when shooting this way is far preferable to using a tripod. Insects, reptiles and other animals will require you to be able to shoot without a tripod as will working from a ladder with tall subjects. There are two ways to shoot hand held. The first is with available light, which is what this article will focus on. The second is to use a flash, which will be part two of this series.
 

@@ -4,7 +4,9 @@ title: Welcome to The Close-Up Project - A Resource for Macro Photographers
 date: 2013-03-30 10:21
 author: Dave
 comments: true
-categories: [close-up, Concepts, flowers, insects, macro]
+tags: [close-up, Concepts, flowers, insects, macro]
+categories:
+ - "originals"
 ---
 What is The Close Up Project? It has been a dream in the making for the last two years. It is the vision of two friends who want to share their love of photography and their love of macro work. The Close Up Project is a site focused on macro and close-up imaging.
 

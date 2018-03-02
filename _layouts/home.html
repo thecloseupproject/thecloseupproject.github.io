@@ -21,7 +21,19 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-          {{ post.content }}
+		 {% assign foundImage = 0 %}
+      {% assign images = post.content | split:"<img " %}
+      {% for image in images %}
+        {% if image contains 'src' %}
+
+            {% if foundImage == 0 %}
+                {% assign html = image | split:"/>" | first %}
+                <img {{ html }} />
+                {% assign foundImage = 1 %}
+            {% endif %}
+        {% endif %}
+      {% endfor %}
+          {{ post.excerpt }}
       </li>
       {% endfor %}
     </ul>
