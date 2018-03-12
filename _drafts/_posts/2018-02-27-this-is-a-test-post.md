@@ -9,3 +9,5 @@ author: Jon
 comments: true
 ---
 This is the body of my post
+
+![this is alt text](/uploads/2018/03/12/sloth.jpg "this is a title")
