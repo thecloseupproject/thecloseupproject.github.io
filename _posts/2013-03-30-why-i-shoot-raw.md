@@ -40,5 +40,3 @@ With Raw files you can render out your image in any number of file formats.  Yo
 
 Editing your images is part of the process no matter what file format you decided to go with.  Every image I send out to a client has been hand corrected to give them the greatest photo possible.  Each of the edits in this article took about a minute of work in Raw Converter.  You will spend time editing regardless of the choices made during production.  Shoot raw and expand the possibilities you will have during editing.  Maximize your creativity.
 
-<h4>Photographs in this Post</h4>
-[gallery columns="4" ids="99,102,98,101,97,100"]
