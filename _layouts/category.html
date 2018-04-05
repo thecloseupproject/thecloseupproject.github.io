@@ -17,7 +17,9 @@ layout: default
                 </a>
             </h3>
             {{ post.excerpt }}
+			<a style="float:right" href="{{ post.url | relative_url }}">permalink</a>
         </li>
+		
         {% endfor %}
     </ul>
     
