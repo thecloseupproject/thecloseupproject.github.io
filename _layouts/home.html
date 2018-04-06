@@ -20,19 +20,21 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
+		
 		 {% assign foundImage = 0 %}
       {% assign images = post.content | split:"<img " %}
       {% for image in images %}
         {% if image contains 'src' %}
-
             {% if foundImage == 0 %}
-                {% assign html = image | split:"/>" | first %}
-                <img {{ html }} />
+				{% assign src = post.content | split: 'src="' %}
+				{% assign src = src[1] | split: '"' | first | replace: '//cdn', 'http://cdn' | replace: 'http:http://', 'http://' | remove: 'https:' %}
+                <img class="excert-img" src="{{ src }}" />
                 {% assign foundImage = 1 %}
             {% endif %}
         {% endif %}
       {% endfor %}
-          {{ post.excerpt }}
+          {{ post.excerpt | truncate: 400 }}
+		
       </li>
       {% endfor %}
     </ul>

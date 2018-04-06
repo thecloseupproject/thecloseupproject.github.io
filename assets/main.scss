@@ -5,14 +5,15 @@
 @import "minima";
 
 $dark-grey: #222;
+$light-grey: #ddd;
 $green: #afd665;
 
-header {background-color: $dark-grey;}
+header {background-color: #fff;}
 header.post-header {background-color:#fff;}
-header div.wrapper {height:80px; background-color:$dark-grey;}
+header div.wrapper {height:90px; background-color:#fff;}
 
 .site-nav {line-height:80px;}
-.site-nav .page-link {color:#fff !important;}
+.site-nav .page-link {color:$dark-grey !important;}
 .site-nav a:hover {color: $green !important;}
 
 img.hero {
@@ -33,5 +34,10 @@ img.hero {
 
 .post-list > li {
     margin-bottom: 40px;
-    border-bottom: solid 1px $dark-grey;
+    border-bottom: solid 1px $green;
+	min-height:300px;
 }
+
+img.excert-img {width:250px; margin-right:15px; float:left; border: 1px solid $light-grey;  box-shadow: 1px 1px 5px rgba(0,0,0,.1); padding: 5px;}
+
+.site-footer {background-color: $dark-grey;}
