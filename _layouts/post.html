@@ -20,7 +20,7 @@ layout: default
   <div class="post-categories">
   Posted In: 
   {% for category in page.categories %}
-  <a href="/category/{{ category | slugize }}/">
+  <a href="/category/{{ category | slugize }}">
     {{ category }}
   </a>
 {% endfor %}
