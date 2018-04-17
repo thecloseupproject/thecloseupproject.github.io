@@ -3,22 +3,32 @@ layout: default
 ---
 
 <div class="blog list">
-    <h1>Filed Under <small>#{{ page.tag }}</small></h1>
-
-    
+    Filed Under: <h1>{{ page.tag }}</h1>
+	
     <ul class="post-list">
         {% for post in site.categories[page.tag] %}
         <li>
-            {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-            <span class="post-meta">{{ post.date | date: date_format }}</span>
-            <h3>
-                <a class="post-link" href="{{ post.url | relative_url }}">
-                    {{ post.title | escape }}
-                </a>
-            </h3>
-            {{ post.excerpt }}
-			<a style="float:right" href="{{ post.url | relative_url }}">permalink</a>
-        </li>
+           {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+		
+		 {% assign foundImage = 0 %}
+      {% assign images = post.content | split:"<img " %}
+      {% for image in images %}
+        {% if image contains 'src' %}
+            {% if foundImage == 0 %}
+				{% assign src = post.content | split: 'src="' %}
+				{% assign src = src[1] | split: '"' | first | replace: '//cdn', 'http://cdn' | replace: 'http:http://', 'http://' | remove: 'https:' %}
+                <img class="excert-img" src="{{ src }}" />
+                {% assign foundImage = 1 %}
+            {% endif %}
+        {% endif %}
+      {% endfor %}
+          {{ post.excerpt | truncate: 400 }}
 		
         {% endfor %}
     </ul>
