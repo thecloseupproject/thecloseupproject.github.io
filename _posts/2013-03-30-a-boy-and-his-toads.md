@@ -13,11 +13,11 @@ Over the summer I was shooting in the acre of gardens at my Mom’s house when m
 “Daddy, Daddy, the toad wants to help you take pictures,” he tells me with such joy in his voice. Then he opens up his cupped hands to reveal a little toad he had found in the garden. I turn my lens towards his hands and start shooting. I had been working on bees so I was already hand holding the camera, allowing for a quick transition. Focusing on the toad I compose to include some of the hands.
 
 <p class="post-image"><img class="size-full wp-image-119" alt="Framing The Toad" src="http://thecloseupproject.com/wp-content/uploads/2013/03/toad3.jpg"/>
-The hands around the toad provide an exciting sense of scale. A 4 year olds hand’s give context to the size of the toad and adds a dynamic aspect to the photo.</caption></p>
+The hands around the toad provide an exciting sense of scale. A 4 year olds hand’s give context to the size of the toad and adds a dynamic aspect to the photo.</p>
 
 After a few shots I take a second to check the LCD and I am struck by the scale the little 4 year old hands give the image. They are huge compared to the toad and show just how small the creature truly is. In close-up work we can easily lose the idea of perspective or scale. Many times we are seeking to lose that scale and make our subjects look bigger than life. I love the way these images brought some of the scale back into the photos. Over the next minute I play more with the idea of scale and try different angles to accentuate the effect.
 
-<p><img class="size-full wp-image-118" title="Texture And Detail" alt="Texture and detail" src="http://thecloseupproject.com/wp-content/uploads/2013/03/toad2.jpg" /> <caption align="bottom">Texture and detail are two of the building blocks of great macro and close-up photos.</p>
+<p><img class="size-full wp-image-118" title="Texture And Detail" alt="Texture and detail" src="http://thecloseupproject.com/wp-content/uploads/2013/03/toad2.jpg" />Texture and detail are two of the building blocks of great macro and close-up photos.</p>
 
 With this shot I love how you can see the texture of the dirt and the ridges in the finger. These two things in combination with the detail in the toad’s face show the strengths and impact of close-up photography. Textures, specifically the definition in those textures are a big part of composing a succesful close-up image. You always want to show the things we miss with the naked eye. It is an added bonus when you can do it with everyday things like a hand.
 
