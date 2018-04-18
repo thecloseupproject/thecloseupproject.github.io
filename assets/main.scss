@@ -99,6 +99,8 @@ a.next:hover, a.previous:hover {background-color:$green; text-decoration:none; c
     transition: all 0.23s ease-in-out 0s;
 }
 
+#results-search-form .button {display:inline-block;}
+
 /*** Mailchimp ***/
 #mc_embed_signup{clear:left; }
 #mc_embed_signup label {padding-bottom:0px !important;}
