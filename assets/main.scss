@@ -7,6 +7,11 @@
 $dark-grey: #222;
 $light-grey: #ddd;
 $green: #afd665;
+$rss: #FF6600;
+$fb: #4267b2;
+$instagram: #8a47b0;
+$twitter: #1da1f2;
+$flickr: #ff0084;
 
 header {background-color: #fff;}
 header.post-header {background-color:#fff;}
@@ -48,4 +53,47 @@ a.next , a.previous  {background-color:$dark-grey; color: #fff; padding:8px; fon
 a.next:hover, a.previous:hover {background-color:$green; text-decoration:none; color:$dark-grey}
 
 .site-footer {background-color: $dark-grey;}
-#search-box {width:100%; height:35px; border-radius:5px; border:$dark-grey; margin-bottom:15px;}
+.site-footer a {padding:15px; transition: all .1s ease-in-out;}
+.site-footer a:hover {transform: scale(1.5);}
+.footer-social {display:flex; justify-content:center; align-items:center;}
+.fa-rss {color: $rss;}
+.fa-twitter {color: $twitter;}
+.fa-facebook {color: $fb;}
+.fa-instagram {color: $instagram;}
+.fa-flickr {color: $flickr;}
+
+/*** Search ***/
+#search-box {width:100%; height:32px; border-radius:5px; border:$dark-grey; margin-bottom:10px;}
+#search .button:hover {background-color: #777;}
+#search input.button {
+    display: block;
+    width: 35%;
+    margin: 0 0 10px 0;
+    min-width: 90px;
+}
+#search .button {
+    clear: both;
+    background-color: #aaa;
+    border: 0 none;
+    border-radius: 4px;
+    letter-spacing: .03em;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 15px;
+    height: 32px;
+    line-height: 32px;
+    margin: 0 5px 10px 0;
+    padding: 0;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: top;
+    white-space: nowrap;
+    width: auto;
+    transition: all 0.23s ease-in-out 0s;
+}
+
+/*** Mailchimp ***/
+#mc_embed_signup{clear:left; }
+#mc_embed_signup label {padding-bottom:0px !important;}
+#mc_embed_signup input.email {border-radius:5px !important; width:100% !important; border:$dark-grey !important; height:35px !important;}
