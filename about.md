@@ -10,4 +10,4 @@ permalink: "/about/"
 <p>Jon White is a father, a husband, a professional web developer and an amateur photographer.  He spends his days building web applications and his free time trying to figure out when he can fit in some quality time with his camera.  He has only been shooting seriously for about a year but has always been interested in photography.  Jon believes the best part about macro photography is the ability to find the interesting in the mundane or the hidden beauty in something that, on the surface, appears ugly.</p>
 <br />
 <strong>If you have any questions or comments about The Close-Up Project we&#8217;d love to hear from you.  Use the Feedback button on the left or contact us directly at: </strong><br />
-<a href="mailto:info@thecloseupproject.com">info@thecloseupproject.com</a></p>
+<a href="mailto:info@thecloseupproject.com">info@thecloseupproject.com</a>
