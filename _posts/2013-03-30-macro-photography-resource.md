@@ -14,7 +14,7 @@ The Close Up Project was founded by Dave Evans and Jon White. Dave has been a pr
 
 &nbsp;
 
-[caption id="attachment_19" align="aligncenter" width="600"]<img class="size-full wp-image-19" title="Raindrops" alt="drops" src="http://thecloseupproject.com/wp-content/uploads/2013/02/drops.jpg" width="600" height="402" /> Use reflections to create more dynamic compositions, show the world in a different light and see the world in a different way.[/caption]
+<p class="post-image"><img class="size-full wp-image-19" title="Raindrops" alt="drops" src="http://thecloseupproject.com/wp-content/uploads/2013/02/drops.jpg" width="600" height="402" /> Use reflections to create more dynamic compositions, show the world in a different light and see the world in a different way.</p>
 
 Both are self-described geeks looking to push the technological limits of production, post-production and presentation in their genre. With the technology available today the possibilities are limitless with what can be done.  We are going to find out how far we can go.  The gear being produced today opens up new shooting possibilities all the time.  Combined with the software and post-production techniques being developed we can do things only imaginable a few years ago. Let’s expand our imaginations and create more.
 
@@ -22,13 +22,13 @@ The days of a print based world are over.  How we share our work and disseminat
 
 &nbsp;
 
-[caption id="attachment_22" align="aligncenter" width="600"]<img class="size-full wp-image-22 " alt="Bee on flower" src="http://thecloseupproject.com/wp-content/uploads/2013/02/bee.jpg" width="600" height="481" /> Macro or close-up-what is the difference? Does the difference matter? A beautiful image is a beautiful image.[/caption]
+<p class="post-image"><img class="size-full wp-image-22 " alt="Bee on flower" src="http://thecloseupproject.com/wp-content/uploads/2013/02/bee.jpg" /> Macro or close-up-what is the difference? Does the difference matter? A beautiful image is a beautiful image.</p>
 
 Macro and close-up are used interchangeably in many places but there is a difference.  I will discuss more on that in another post but here it is in a nutshell.  In order to be a true macro photo it must have a reproduction ratio of 1:1 or greater.  1:1 means the image on the sensor or film plain is the same as in real life.  Many shots have a macro look but are not technically a macro shot.  Many macro shots are actually close-up photos.  Close-up shots are between 1:10 and 1:1.  We are two geeks who love the technical aspect of what we do.  We also love the science behind what we create and believe understanding the science can help you better your art.  At the end of the day though what matters is the creativity and the art we produce.
 
 &nbsp;
 
-[caption id="attachment_23" align="aligncenter" width="600"]<img class="size-full wp-image-23" alt="Butterfly" src="http://thecloseupproject.com/wp-content/uploads/2013/02/butterfly.jpg" width="600" height="481" /> We can miss so much detail with the naked eye.[/caption]
+<p class="post-image"><img class="size-full wp-image-23" alt="Butterfly" src="http://thecloseupproject.com/wp-content/uploads/2013/02/butterfly.jpg" /> We can miss so much detail with the naked eye.</p>
 
 Close-up and macro shots provide a different look at the world around us.  One of the greatest strengths of photography is to reveal what we miss with the naked eye.  Close-ups allow us to reveal yet another world we miss or cannot see.  Combine these two and the things we can show about the world around us are unique and eye opening.
 
@@ -36,8 +36,7 @@ Education is one of the major goals of this community.  It is a place where you
 
 &nbsp;
 
-[caption id="attachment_24" align="aligncenter" width="600"]<img class="size-full wp-image-24" alt="Flower" src="http://thecloseupproject.com/wp-content/uploads/2013/02/flower.jpg" width="600" height="481" /> There is so much beauty in the simplicity of the world around us.[/caption]
+<p class="post-image"><img class="size-full wp-image-24" alt="Flower" src="http://thecloseupproject.com/wp-content/uploads/2013/02/flower.jpg"  /> There is so much beauty in the simplicity of the world around us.</p>
 
 We are excited about the things we will be able to do with this project and this community.  We have people who will be contributing articles beyond ourselves expanding the subjects and expertise we can bring you. Over the next year we will be bringing you how-to videos, informational PDF’s and so much more.  It is time to go out and create incredible images.
-<h4>Photographs in this Post</h4>
-[gallery link="file", columns="4"]
+
