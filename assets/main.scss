@@ -100,6 +100,8 @@ a.next:hover, a.previous:hover {background-color:$green; text-decoration:none; c
 }
 
 #results-search-form .button {display:inline-block !important;}
+ul#search-results {list-style:none; margin-top:20px;}
+#ul#search-results li {border-bottom: solid 1px $dark-grey; margin-top:10px;}
 
 /*** Mailchimp ***/
 #mc_embed_signup{clear:left; }
