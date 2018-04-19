@@ -26,7 +26,7 @@ github_username:  thecloseupproject
 markdown: kramdown
 theme: minima
 paginate: 5
-permalink: /:title
+permalink: /:title/
 plugins:
   - jekyll-feed
   - jekyll-paginate
