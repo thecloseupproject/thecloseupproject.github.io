@@ -19,4 +19,4 @@ Congratulations again to the <a title="Announcing the Winners of Photo Challenge
 </ol>
 Upload as many images as you’d like.  The only rules are that the image must be considered macro or close-up.  In early January we’ll select a winner from both categories who will receive a free t-shirt as  well as having their work featured in an upcoming post on site.  Good Luck!
 
-[caption id="attachment_699" align="aligncenter" width="800"]<a href="http://thecloseupproject.com/wp-content/uploads/2013/11/20121229-IMG_9085.jpg"><img class="size-full wp-image-699" alt="Snowman Close Up" src="http://thecloseupproject.com/wp-content/uploads/2013/11/20121229-IMG_9085.jpg" width="800" height="533" /></a> Get creative with those seasonal close-ups[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2013/11/20121229-IMG_9085.jpg"><img class="size-full wp-image-699" alt="Snowman Close Up" src="http://thecloseupproject.com/wp-content/uploads/2013/11/20121229-IMG_9085.jpg" /></a> Get creative with those seasonal close-ups</p>

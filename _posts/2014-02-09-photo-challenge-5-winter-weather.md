@@ -19,6 +19,6 @@ For our 5th photo challenge we're asking you to go out and get some macro or clo
 </ol>
 Upload as many images as you’d like.  The only rules are that the image must be considered macro or close-up.  In early April we’ll select a winner who will receive a free t-shirt as  well as having their work featured in an upcoming post on site.  Good Luck!
 
-<a href="http://thecloseupproject.com/wp-content/uploads/2014/02/20140205-IMG_3487.jpg"><img class="aligncenter size-full wp-image-737" alt="Frozen Cherries" src="http://thecloseupproject.com/wp-content/uploads/2014/02/20140205-IMG_3487.jpg" width="800" height="533" /></a>
+<a href="http://thecloseupproject.com/wp-content/uploads/2014/02/20140205-IMG_3487.jpg"><img class="aligncenter size-full wp-image-737" alt="Frozen Cherries" src="http://thecloseupproject.com/wp-content/uploads/2014/02/20140205-IMG_3487.jpg" /></a>
 
 &nbsp;

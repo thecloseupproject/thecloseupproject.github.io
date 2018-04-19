@@ -12,7 +12,7 @@ The basic concept of composition revolves around what to include in your image 
 
 &nbsp;
 
-<strong><strong><a href="http://thecloseupproject.com/wp-content/uploads/2015/03/IMG_9134.jpg"><img class="alignnone size-full wp-image-923" src="http://thecloseupproject.com/wp-content/uploads/2015/03/IMG_9134.jpg" alt="IMG_9134" width="799" height="533" /></a></strong></strong>
+<strong><strong><a href="http://thecloseupproject.com/wp-content/uploads/2015/03/IMG_9134.jpg"><img class="alignnone size-full wp-image-923" src="http://thecloseupproject.com/wp-content/uploads/2015/03/IMG_9134.jpg" alt="IMG_9134" /></a></strong></strong>
 
 &nbsp;
 
@@ -22,7 +22,7 @@ How do you want the viewer to scan through your image?  Left to right, right to
 
 &nbsp;
 
-<strong><strong><a href="http://thecloseupproject.com/wp-content/uploads/2015/03/SV092220120101.jpg"><img class="alignnone size-full wp-image-925" src="http://thecloseupproject.com/wp-content/uploads/2015/03/SV092220120101.jpg" alt="SV09222012010" width="800" height="533" /></a></strong></strong>
+<strong><strong><a href="http://thecloseupproject.com/wp-content/uploads/2015/03/SV092220120101.jpg"><img class="alignnone size-full wp-image-925" src="http://thecloseupproject.com/wp-content/uploads/2015/03/SV092220120101.jpg" alt="SV09222012010" /></a></strong></strong>
 
 &nbsp;
 
@@ -34,7 +34,7 @@ With many various factors already guiding the composition how do you make it you
 
 &nbsp;
 
-<strong><strong><a href="http://thecloseupproject.com/wp-content/uploads/2015/03/IMG_6224.jpg"><img class="alignnone size-full wp-image-919" src="http://thecloseupproject.com/wp-content/uploads/2015/03/IMG_6224.jpg" alt="IMG_6224" width="800" height="640" /></a></strong></strong>
+<strong><strong><a href="http://thecloseupproject.com/wp-content/uploads/2015/03/IMG_6224.jpg"><img class="alignnone size-full wp-image-919" src="http://thecloseupproject.com/wp-content/uploads/2015/03/IMG_6224.jpg" alt="IMG_6224" /></a></strong></strong>
 
 &nbsp;
 
@@ -44,7 +44,7 @@ Very specific to macro is how we use depth of field.  Where are you going to pu
 
 &nbsp;
 
-<strong><strong><a href="http://thecloseupproject.com/wp-content/uploads/2015/03/IMG_8266.jpg"><img class="alignnone size-full wp-image-921" src="http://thecloseupproject.com/wp-content/uploads/2015/03/IMG_8266.jpg" alt="IMG_8266" width="800" height="640" /></a></strong></strong>
+<strong><strong><a href="http://thecloseupproject.com/wp-content/uploads/2015/03/IMG_8266.jpg"><img class="alignnone size-full wp-image-921" src="http://thecloseupproject.com/wp-content/uploads/2015/03/IMG_8266.jpg" alt="IMG_8266" /></a></strong></strong>
 
 &nbsp;
 

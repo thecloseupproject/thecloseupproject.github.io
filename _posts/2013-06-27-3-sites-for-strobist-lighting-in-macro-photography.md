@@ -13,7 +13,7 @@ After I read my first article about this approach I gathered up some old run dow
 
 Today there are many companies making accessories for top mount flashes, intending them to be used off camera.  You can get grids, gels, barndoors, softboxes, beauty dishes and the list goes on and on.  You can make your own accessories to do whatever you need; again limited only by your imagination.  I would like to share 3 sites that have influenced my shooting.  Give them a read and draw some inspiration / ideas.  Figure out ways to apply the styles and techniques to macro photography.
 
-<b><a href="http://thecloseupproject.com/wp-content/uploads/2013/06/Screen-Shot-2013-06-27-at-7.14.41-PM.jpg"><img class="alignnone size-full wp-image-550" alt="Screen Shot 2013-06-27 at 7.14.41 PM" src="http://thecloseupproject.com/wp-content/uploads/2013/06/Screen-Shot-2013-06-27-at-7.14.41-PM.jpg" width="800" height="458" /></a></b>
+<b><a href="http://thecloseupproject.com/wp-content/uploads/2013/06/Screen-Shot-2013-06-27-at-7.14.41-PM.jpg"><img class="alignnone size-full wp-image-550" alt="Screen Shot 2013-06-27 at 7.14.41 PM" src="http://thecloseupproject.com/wp-content/uploads/2013/06/Screen-Shot-2013-06-27-at-7.14.41-PM.jpg" /></a></b>
 
 <a href="http://www.strobist.com"><b>1 Strobist.com</b></a>
 
@@ -21,7 +21,7 @@ Strobist.com is a site run by photographer David Hobby.  The site was my first 
 
 Although the site is not specifically about macro photography the take away knowledge can be easily adapted.  If you have not been to the site before get ready to spend many an hour there.  Learn as much about lighting as you can.  Always be looking at the work photographers outside your focus area are producing.  Learn how they do what they do to inspire ideas in your own work.  This site provides great exposure to these different types of photography.
 
-<a href="http://thecloseupproject.com/wp-content/uploads/2013/06/Screen-Shot-2013-06-27-at-7.18.19-PM.jpg"><img class="alignnone size-full wp-image-552" alt="Screen Shot 2013-06-27 at 7.18.19 PM" src="http://thecloseupproject.com/wp-content/uploads/2013/06/Screen-Shot-2013-06-27-at-7.18.19-PM.jpg" width="800" height="459" /></a>
+<a href="http://thecloseupproject.com/wp-content/uploads/2013/06/Screen-Shot-2013-06-27-at-7.18.19-PM.jpg"><img class="alignnone size-full wp-image-552" alt="Screen Shot 2013-06-27 at 7.18.19 PM" src="http://thecloseupproject.com/wp-content/uploads/2013/06/Screen-Shot-2013-06-27-at-7.18.19-PM.jpg" /></a>
 
 <a href="http://www.joemcnally.com/blog/"><b>2 Joe McNalley's Blog</b></a>
 
@@ -29,7 +29,7 @@ Joe McNalley is one of my favorite photographers.  Joe’s use of light and sha
 
 His book <a href="http://www.amazon.com/The-Hot-Shoe-Diaries-Flashes/dp/0321580141/ref=sr_1_1?ie=UTF8&amp;qid=1372415834&amp;sr=8-1&amp;keywords=the+hot+shoe+diaries">The Hot Shoe Diaries</a> from 2009 is an indispensable resource for improving your lighting ability.  The book is all about using top mount flashes off camera.  Buy it, read it and then read it again to see what you missed the first time around.  His blog is another great resource.  He talks about the shoots he’s done, how he did them and most importantly what was going through his head.  Understanding the thought processes behind lighting is one of the best ways to improve your photograph.
 
-<a href="http://thecloseupproject.com/wp-content/uploads/2013/06/Screen-Shot-2013-06-27-at-7.17.23-PM.jpg"><img class="alignnone size-full wp-image-551" alt="Screen Shot 2013-06-27 at 7.17.23 PM" src="http://thecloseupproject.com/wp-content/uploads/2013/06/Screen-Shot-2013-06-27-at-7.17.23-PM.jpg" width="800" height="458" /></a>
+<a href="http://thecloseupproject.com/wp-content/uploads/2013/06/Screen-Shot-2013-06-27-at-7.17.23-PM.jpg"><img class="alignnone size-full wp-image-551" alt="Screen Shot 2013-06-27 at 7.17.23 PM" src="http://thecloseupproject.com/wp-content/uploads/2013/06/Screen-Shot-2013-06-27-at-7.17.23-PM.jpg" /></a>
 
 <a href="http://www.fiberstrobe.blogspot.com"><b>3 Fiberstrobe</b></a>
 

@@ -18,7 +18,7 @@ When you photograph people one of the things you want to include in your shot ar
 
 By showing the face of the insect you create a connection between the viewer and the image.  Try to think about your image as a portrait of the insect.  With portraits the face should be one of the focal points in the image.
 
-[caption id="attachment_503" align="alignnone" width="800"]<a href="http://thecloseupproject.com/wp-content/uploads/2013/06/IMG_6224.jpg"><img class="size-full wp-image-503" alt="This Image had a portrait quality.  The face is one of the most prominent elements." src="http://thecloseupproject.com/wp-content/uploads/2013/06/IMG_6224.jpg" width="800" height="640" /></a><center> This image has a portrait quality.  The face is one of the most prominent elements.</center>[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2013/06/IMG_6224.jpg"><img class="size-full wp-image-503" alt="This Image had a portrait quality.  The face is one of the most prominent elements." src="http://thecloseupproject.com/wp-content/uploads/2013/06/IMG_6224.jpg" /></a><center> This image has a portrait quality.  The face is one of the most prominent elements.</center></p>
 <br/>
 <strong>2 Show the insect doing what it does.</strong>
 
@@ -26,7 +26,7 @@ Insects have a purpose or job in nature. Some are predators, some are pollinator
 
 When insects are feeding, take advantage of the great opportunity to photograph them.  They are focused on the task at hand and are rarely bothered by your presence.  You can add context to your images and give them depth by using some of the surrounding elements in your photographs.  These elements can include flowers, stems and other insects.
 
-[caption id="attachment_504" align="alignnone" width="800"]<a href="http://thecloseupproject.com/wp-content/uploads/2013/06/SV07062012134.jpg"><img class="size-full wp-image-504" alt="The flower gives context to what the bee is doing." src="http://thecloseupproject.com/wp-content/uploads/2013/06/SV07062012134.jpg" width="800" height="640" /></a> <center>The flower gives context to what the bee is doing.</center>[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2013/06/SV07062012134.jpg"><img class="size-full wp-image-504" alt="The flower gives context to what the bee is doing." src="http://thecloseupproject.com/wp-content/uploads/2013/06/SV07062012134.jpg" /></a> <center>The flower gives context to what the bee is doing.</center></p>
 <br/>
 <strong>3 Get on the same level as the insect.</strong>
 
@@ -34,7 +34,7 @@ A lot of insect activity happens on the ground or on plants.  Plants can be tal
 
 It is preferable to get on the same level as the insect you are photographing.  You may need to lie down, sit, kneel and so forth for low-level subjects.  For tall and large plants you may need a stool or ladder to get the right height.  You can climb a tree and see what you find as you go.
 
-[caption id="attachment_506" align="alignnone" width="800"]<a href="http://thecloseupproject.com/wp-content/uploads/2013/06/SV09042012067.jpg"><img class="size-full wp-image-506" alt="By bringing yourself to the same level as the insect you are able to get a nice side profile." src="http://thecloseupproject.com/wp-content/uploads/2013/06/SV09042012067.jpg" width="800" height="533" /></a><center> By bringing yourself to the same level as the insect you are able to get a nice side profile.</center>[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2013/06/SV09042012067.jpg"><img class="size-full wp-image-506" alt="By bringing yourself to the same level as the insect you are able to get a nice side profile." src="http://thecloseupproject.com/wp-content/uploads/2013/06/SV09042012067.jpg" /></a><center> By bringing yourself to the same level as the insect you are able to get a nice side profile.</center></p>
 <br/>
 <strong>4 Convey a sense of action.</strong>
 
@@ -42,7 +42,7 @@ Insects are moving around all the time.  The places they travel and what they d
 
 You can convey that sense of motion and action in a couple of different ways.  One way is to blur the wings of your subject while in flight.  For ants, try to get them carrying items back to the colony.  For spiders attempt to get them as they eat or wrap their prey up after catching it in the web.
 
-[caption id="attachment_507" align="alignnone" width="800"]<a href="http://thecloseupproject.com/wp-content/uploads/2013/06/SV09092012046.jpg"><img class="size-full wp-image-507 " alt="A spider and its prey." src="http://thecloseupproject.com/wp-content/uploads/2013/06/SV09092012046.jpg" width="800" height="640" /></a> <center>A spider and its prey.</center>[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2013/06/SV09092012046.jpg"><img class="size-full wp-image-507 " alt="A spider and its prey." src="http://thecloseupproject.com/wp-content/uploads/2013/06/SV09092012046.jpg" /></a> <center>A spider and its prey.</center></p>
 <br/>
 <strong>5 Find a place where you know insects will be and wait.</strong>
 
@@ -50,6 +50,6 @@ Insects move from plant to plant as they go about their lives.  You can try to 
 
 You can take another approach.  Pick a plant where you know there will be a lot of insect traffic and wait.  Spend 15 minutes or 2 hours and photograph what comes by.  When I hang out at a butterfly bush at my house I get a great variety of insect activity and a lot of different shots.  There will be many insects one minute and none the next.  During the down time I can check the shots I have taken and make tweaks for the next ones.  I also know I am getting a good sample of the insects in my yard and discover ones I will want to photograph again.
 
-[caption id="attachment_505" align="alignnone" width="800"]<a href="http://thecloseupproject.com/wp-content/uploads/2013/06/SV08242012124.jpg"><img class="size-full wp-image-505" alt="One of my favorite subjects, the Hummingbird moth.  It s a regular visiter at the Butterfly bush." src="http://thecloseupproject.com/wp-content/uploads/2013/06/SV08242012124.jpg" width="800" height="640" /></a> <center>One of my favorite subjects, the Hummingbird moth. It is a regular visiter at the Butterfly bush</center>[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2013/06/SV08242012124.jpg"><img class="size-full wp-image-505" alt="One of my favorite subjects, the Hummingbird moth.  It s a regular visiter at the Butterfly bush." src="http://thecloseupproject.com/wp-content/uploads/2013/06/SV08242012124.jpg" /></a> <center>One of my favorite subjects, the Hummingbird moth. It is a regular visiter at the Butterfly bush</center></p>
 <br/>
 [gallery columns="4"]

@@ -12,4 +12,4 @@ We here at The Close-Up Project are happy to announce that you can now get your 
 
 &nbsp;
 
-[caption id="" align="aligncenter" width="350"]<img alt="" src="http://i1.cpcache.com/product/1232693683/macro_photography_ratio_tshirt.jpg?color=Natural&amp;height=350&amp;width=350" width="350" height="350" /> There are many shirt styles to choose from.[/caption]
+<p class="post-image"><img alt="" src="http://i1.cpcache.com/product/1232693683/macro_photography_ratio_tshirt.jpg?color=Natural&amp;height=350&amp;/> There are many shirt styles to choose from.</p>

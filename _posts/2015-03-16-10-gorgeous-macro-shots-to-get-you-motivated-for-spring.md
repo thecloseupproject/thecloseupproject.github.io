@@ -12,7 +12,7 @@ Spring is just around the corner and if you happen to live in the north-eastern 
 
 &nbsp;
 
-[caption id="attachment_319" align="aligncenter" width="800"]<a href="http://thecloseupproject.com/wp-content/uploads/2013/05/SV08172012029.jpg"><img class="wp-image-319 size-full" src="http://thecloseupproject.com/wp-content/uploads/2013/05/SV08172012029.jpg" alt="" width="800" height="640" /></a> Spring is a great time of year for macro and close-up photography.[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2013/05/SV08172012029.jpg"><img class="wp-image-319 size-full" src="http://thecloseupproject.com/wp-content/uploads/2013/05/SV08172012029.jpg" alt="" /></a> Spring is a great time of year for macro and close-up photography.</p>
 
 &nbsp;
 

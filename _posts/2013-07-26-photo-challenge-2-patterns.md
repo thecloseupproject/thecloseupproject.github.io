@@ -18,4 +18,4 @@ Thanks again to everyone who submitted photographs during our <a title="Photo Ch
 </ol>
 Upload as many images as you'd like.  The only rules are that the image must be considered macro or close-up.  In early August we'll select 3 photographs to feature on The Close-Up Project.
 
-[caption id="attachment_497" align="aligncenter" width="800"]<a href="http://thecloseupproject.com/wp-content/uploads/2013/06/IMG_9766.jpg"><img class="size-full wp-image-497" alt="There are hidden patterns all around us.  We challenge you to go out and find them!" src="http://thecloseupproject.com/wp-content/uploads/2013/06/IMG_9766.jpg" width="800" height="533" /></a> There are hidden patterns all around us. We challenge you to go out and find them![/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2013/06/IMG_9766.jpg"><img class="size-full wp-image-497" alt="There are hidden patterns all around us.  We challenge you to go out and find them!" src="http://thecloseupproject.com/wp-content/uploads/2013/06/IMG_9766.jpg" /></a> There are hidden patterns all around us. We challenge you to go out and find them!</p>

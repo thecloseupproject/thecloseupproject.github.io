@@ -14,7 +14,7 @@ Last summer I was looking for a heavy duty tripod, somthing carbon fiber and wit
 
 Brandon at Allen's mentioned I might want to give the Induro Carbon CT Series 8X (Model CT314) a try.  It is a 4 leg section model with rapid center column.  He said he would put it up against any of the other brands I was considering.  I was a little skeptical but started doing some research.  The reviews I read were good and people seemed to be impressed with the tripod, so I decided to give it a try.  There was a rebate at the time which was a nice bonus.
 
-[caption id="attachment_951" align="alignnone" width="800"]<a href="http://thecloseupproject.com/wp-content/uploads/2015/04/LN1A8583.jpg"><img class="size-full wp-image-951" src="http://thecloseupproject.com/wp-content/uploads/2015/04/LN1A8583.jpg" alt="Induro Tripod in action while taking some macro shoots of peach blossoms.  " width="800" height="640" /></a> Induro Tripod in action while taking some macro shoots of peach blossoms.[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2015/04/LN1A8583.jpg"><img class="size-full wp-image-951" src="http://thecloseupproject.com/wp-content/uploads/2015/04/LN1A8583.jpg" alt="Induro Tripod in action while taking some macro shoots of peach blossoms.  " /></a> Induro Tripod in action while taking some macro shoots of peach blossoms.</p>
 
 &nbsp;
 
@@ -22,7 +22,7 @@ Since adding this to my bag there are a few things I have come to really appreci
 
 &nbsp;
 
-[caption id="attachment_952" align="alignnone" width="640"]<a href="http://thecloseupproject.com/wp-content/uploads/2015/04/LN1A8592.jpg"><img class="size-full wp-image-952" src="http://thecloseupproject.com/wp-content/uploads/2015/04/LN1A8592.jpg" alt="My hand adds some scale to show the size of the twist locks.  I am 6'2&quot;." width="640" height="800" /></a> My hand adds some scale to show the size of the twist locks. I am 6'2".[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2015/04/LN1A8592.jpg"><img class="size-full wp-image-952" src="http://thecloseupproject.com/wp-content/uploads/2015/04/LN1A8592.jpg" alt="My hand adds some scale to show the size of the twist locks.  I am 6'2&quot;." /></a> My hand adds some scale to show the size of the twist locks. I am 6'2".</p>
 
 &nbsp;
 
@@ -34,7 +34,7 @@ Many tripods have notch stops for their legs,  3 maybe 4 spots where the legs w
 
 &nbsp;
 
-[caption id="attachment_954" align="alignnone" width="799"]<a href="http://thecloseupproject.com/wp-content/uploads/2015/04/LN1A8627.jpg"><img class="size-full wp-image-954" src="http://thecloseupproject.com/wp-content/uploads/2015/04/LN1A8627.jpg" alt="The leg movement and notch system." width="799" height="533" /></a> The leg movement and notch system.[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2015/04/LN1A8627.jpg"><img class="size-full wp-image-954" src="http://thecloseupproject.com/wp-content/uploads/2015/04/LN1A8627.jpg" alt="The leg movement and notch system." /></a> The leg movement and notch system.</p>
 
 &nbsp;
 
@@ -46,7 +46,7 @@ The tripod came with a case, which is decent.  It would be suitable for lite tr
 
 &nbsp;
 
-[caption id="attachment_953" align="alignnone" width="800"]<a href="http://thecloseupproject.com/wp-content/uploads/2015/04/LN1A8611.jpg"><img class="size-full wp-image-953" src="http://thecloseupproject.com/wp-content/uploads/2015/04/LN1A8611.jpg" alt="Again the hand is for scale to show the center column lock." width="800" height="640" /></a> Again the hand is for scale to show the center column lock.[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2015/04/LN1A8611.jpg"><img class="size-full wp-image-953" src="http://thecloseupproject.com/wp-content/uploads/2015/04/LN1A8611.jpg" alt="Again the hand is for scale to show the center column lock." /></a> Again the hand is for scale to show the center column lock.</p>
 
 &nbsp;
 

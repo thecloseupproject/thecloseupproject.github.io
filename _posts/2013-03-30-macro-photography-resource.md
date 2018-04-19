@@ -14,7 +14,7 @@ The Close Up Project was founded by Dave Evans and Jon White. Dave has been a pr
 
 &nbsp;
 
-<p class="post-image"><img class="size-full wp-image-19" title="Raindrops" alt="drops" src="http://thecloseupproject.com/wp-content/uploads/2013/02/drops.jpg" width="600" height="402" /> Use reflections to create more dynamic compositions, show the world in a different light and see the world in a different way.</p>
+<p class="post-image"><img class="size-full wp-image-19" title="Raindrops" alt="drops" src="http://thecloseupproject.com/wp-content/uploads/2013/02/drops.jpg" /> Use reflections to create more dynamic compositions, show the world in a different light and see the world in a different way.</p>
 
 Both are self-described geeks looking to push the technological limits of production, post-production and presentation in their genre. With the technology available today the possibilities are limitless with what can be done.  We are going to find out how far we can go.  The gear being produced today opens up new shooting possibilities all the time.  Combined with the software and post-production techniques being developed we can do things only imaginable a few years ago. Let’s expand our imaginations and create more.
 

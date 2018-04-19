@@ -18,4 +18,4 @@ The Close-up Project is happy to announce our first photo challenge!  Because S
 </ol>
 Upload as many images as you'd like.  The only rules are that the image must be considered macro or close-up.  In early June we'll select 3 photographs to feature on The Close-Up Project.  So, brush that Winter dust off your camera and get shooting!
 
-[caption id="attachment_196" align="aligncenter" width="800"]<a href="http://thecloseupproject.com/wp-content/uploads/2013/04/8612597102_becc628e90_c.jpg"><img class="size-full wp-image-196" alt="Spring Bloom" src="http://thecloseupproject.com/wp-content/uploads/2013/04/8612597102_becc628e90_c.jpg" width="800" height="534" /></a> There are macro opportunities everywhere you look this time of year.[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2013/04/8612597102_becc628e90_c.jpg"><img class="size-full wp-image-196" alt="Spring Bloom" src="http://thecloseupproject.com/wp-content/uploads/2013/04/8612597102_becc628e90_c.jpg" /></a> There are macro opportunities everywhere you look this time of year.</p>

@@ -12,7 +12,7 @@ categories:
 <p style="text-align: left;">Camera companies and lens manufacturers have added to this concept by putting the label macro on lenses, which are not macro by definition.   Most times these lenses give you a closer focusing distance than previous generations of the same lens.  It is also a selling point, making the buyer feel like they are getting more value for their money.  Additionally it can help one companies lens stand out compared to a competitor.</p>
 &nbsp;
 
-[caption id="attachment_823" align="aligncenter" width="533"]<a href="http://thecloseupproject.com/wp-content/uploads/2014/05/SV745571.jpg"><img class="size-full wp-image-823 " alt="1:1 image of a Bleeding Heart taken with a Canon 100mm IS Macro Lens." src="http://thecloseupproject.com/wp-content/uploads/2014/05/SV745571.jpg" width="533" height="800" /></a> 1:1 image of a Bleeding Heart taken with a Canon 100mm IS Macro Lens.[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2014/05/SV745571.jpg"><img class="size-full wp-image-823 " alt="1:1 image of a Bleeding Heart taken with a Canon 100mm IS Macro Lens." src="http://thecloseupproject.com/wp-content/uploads/2014/05/SV745571.jpg" /></a> 1:1 image of a Bleeding Heart taken with a Canon 100mm IS Macro Lens.</p>
 
 In culture concepts can take on a life of their own, the meaning of words will change and expand.  The term macro is no different.  In many ways this is a good thing for the craft.  The more people know the concept and the style of images the better exposure macro will receive.  Even with the expanding concept of macro photography, this is still a niche area within the field.
 
@@ -20,7 +20,7 @@ Regardless of what they are called or how they are defined macro images reveal a
 
 &nbsp;
 
-[caption id="attachment_824" align="alignnone" width="800"]<a href="http://thecloseupproject.com/wp-content/uploads/2014/05/IMG_3482.jpg"><img class="size-full wp-image-824" alt="Photo of a Bleeding Heart taken with the Canon 28-70mm F/2.8 at minimum focusing distance in the macro range on the lenses focusing scale.   This produced a reproduction ratio of 0.18x.  The lens was at 70mm." src="http://thecloseupproject.com/wp-content/uploads/2014/05/IMG_3482.jpg" width="800" height="533" /></a> Photo of a Bleeding Heart taken with the Canon 28-70mm F/2.8 at minimum focusing distance in the macro range on the lenses focusing scale. This produced a reproduction ratio of 0.18x. The lens was at 70mm.[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2014/05/IMG_3482.jpg"><img class="size-full wp-image-824" alt="Photo of a Bleeding Heart taken with the Canon 28-70mm F/2.8 at minimum focusing distance in the macro range on the lenses focusing scale.   This produced a reproduction ratio of 0.18x.  The lens was at 70mm." src="http://thecloseupproject.com/wp-content/uploads/2014/05/IMG_3482.jpg" /></a> Photo of a Bleeding Heart taken with the Canon 28-70mm F/2.8 at minimum focusing distance in the macro range on the lenses focusing scale. This produced a reproduction ratio of 0.18x. The lens was at 70mm.</p>
 
 One way we see these close-up images everyday is in the TV shows we watch.  There are many great TV shows out there incorporating these types of images into their show.  It is most frequently seen with the use of isolating elements as the show leads into or out of a scene.
 

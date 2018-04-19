@@ -17,7 +17,7 @@ I've always had a mild interest in photography ever since I took a photography c
 
 &nbsp;
 
-[caption id="attachment_330" align="aligncenter" width="800"]<a href="http://thecloseupproject.com/wp-content/uploads/2013/05/IMG_1150_2.jpg"><img class="size-full wp-image-330" src="http://thecloseupproject.com/wp-content/uploads/2013/05/IMG_1150_2.jpg" alt="Macro Greenery" width="800" height="533" /></a> One of my earliest macro shots. I was blown away by the detail I had discovered.[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2013/05/IMG_1150_2.jpg"><img class="size-full wp-image-330" src="http://thecloseupproject.com/wp-content/uploads/2013/05/IMG_1150_2.jpg" alt="Macro Greenery" /></a> One of my earliest macro shots. I was blown away by the detail I had discovered.</p>
 
 &nbsp;
 
@@ -29,7 +29,7 @@ I still shoot a lot of macro and close-up work to this day.  There is just some
 
 &nbsp;
 
-[caption id="attachment_196" align="aligncenter" width="800"]<a href="http://thecloseupproject.com/wp-content/uploads/2013/04/8612597102_becc628e90_c.jpg"><img class="size-full wp-image-196" src="http://thecloseupproject.com/wp-content/uploads/2013/04/8612597102_becc628e90_c.jpg" alt="Spring Bloom" width="800" height="534" /></a> One of my favorite macro shots. Flowers always make fantastic subjects.[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2013/04/8612597102_becc628e90_c.jpg"><img class="size-full wp-image-196" src="http://thecloseupproject.com/wp-content/uploads/2013/04/8612597102_becc628e90_c.jpg" alt="Spring Bloom" /></a> One of my favorite macro shots. Flowers always make fantastic subjects.</p>
 
 &nbsp;
 

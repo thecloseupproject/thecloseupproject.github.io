@@ -12,7 +12,7 @@ When you set out to take a photo one of the first questions you ask yourself is:
 
 &nbsp;
 
-[caption id="attachment_890" align="alignnone" width="800"]<a href="http://thecloseupproject.com/wp-content/uploads/2015/03/Grid.jpg"><img class="size-full wp-image-890" src="http://thecloseupproject.com/wp-content/uploads/2015/03/Grid.jpg" alt="This grid shows what the Rule Of Thirds look like in action." width="800" height="533" /></a> This grid shows what the Rule Of Thirds look like in action.  You can place the subject on the lines across the frame or at one of the interesting points.[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2015/03/Grid.jpg"><img class="size-full wp-image-890" src="http://thecloseupproject.com/wp-content/uploads/2015/03/Grid.jpg" alt="This grid shows what the Rule Of Thirds look like in action." /></a> This grid shows what the Rule Of Thirds look like in action.  You can place the subject on the lines across the frame or at one of the interesting points.</p>
 
 &nbsp;
 
@@ -20,7 +20,7 @@ One of the first things new students learn in their intro to photography class i
 
 &nbsp;
 
-[caption id="attachment_898" align="alignnone" width="800"]<a href="http://thecloseupproject.com/wp-content/uploads/2015/03/Grid-exmple-3.jpg"><img class="size-full wp-image-898" src="http://thecloseupproject.com/wp-content/uploads/2015/03/Grid-exmple-3.jpg" alt="This images was composed so the the cone took u the left 2/3 of the image leaving the right third as soft background creating a pleasing composition. " width="800" height="533" /></a> This images was composed so the the cone took up the left 2/3 of the image leaving the right third as soft background creating a pleasing composition.[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2015/03/Grid-exmple-3.jpg"><img class="size-full wp-image-898" src="http://thecloseupproject.com/wp-content/uploads/2015/03/Grid-exmple-3.jpg" alt="This images was composed so the the cone took u the left 2/3 of the image leaving the right third as soft background creating a pleasing composition. " /></a> This images was composed so the the cone took up the left 2/3 of the image leaving the right third as soft background creating a pleasing composition.</p>
 
 &nbsp;
 
@@ -30,20 +30,20 @@ Some of the common subjects we work with in the world of macro photography are f
 
 &nbsp;
 
-[caption id="attachment_894" align="alignnone" width="800"]<a href="http://thecloseupproject.com/wp-content/uploads/2015/03/Grid-Example-2.jpg"><img class="size-full wp-image-894" src="http://thecloseupproject.com/wp-content/uploads/2015/03/Grid-Example-2.jpg" alt="The focus point of this image is in the intersection in the upper left grid." width="800" height="533" /></a> The focus point of this image is in the intersection in the upper left grid.[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2015/03/Grid-Example-2.jpg"><img class="size-full wp-image-894" src="http://thecloseupproject.com/wp-content/uploads/2015/03/Grid-Example-2.jpg" alt="The focus point of this image is in the intersection in the upper left grid." /></a> The focus point of this image is in the intersection in the upper left grid.</p>
 
 &nbsp;
 
-[caption id="attachment_897" align="alignnone" width="800"]<a href="http://thecloseupproject.com/wp-content/uploads/2015/03/Grid-example-1.jpg"><img class="size-full wp-image-897" src="http://thecloseupproject.com/wp-content/uploads/2015/03/Grid-example-1.jpg" alt="The Bees head and bulk of the body is on the left vertical line." width="800" height="533" /></a> The Bees head and bulk of the body is on the left vertical line.[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2015/03/Grid-example-1.jpg"><img class="size-full wp-image-897" src="http://thecloseupproject.com/wp-content/uploads/2015/03/Grid-example-1.jpg" alt="The Bees head and bulk of the body is on the left vertical line." /></a> The Bees head and bulk of the body is on the left vertical line.</p>
 
 For the image above I wanted to include more context about the life and environment of the bee.  By having more items included in the image I was able to justify the bee to one side of the image making good use of this concept in the process.
 
 We all have images we take where the composition is not what we had hoped.  By cropping your image using the Rule Of Thirds you can take a shot with a less than pleasing composition and turn it into something much more interesting.  Below you can see exactly this in the photo of the Tomato Caterpillar.
 
-[caption id="attachment_901" align="alignnone" width="800"]<a href="http://thecloseupproject.com/wp-content/uploads/2015/03/SV09192012015.jpg"><img class="size-full wp-image-901" src="http://thecloseupproject.com/wp-content/uploads/2015/03/SV09192012015.jpg" alt="In this unclouded image I had the image more center focused than I would have liked." width="800" height="533" /></a> In the original image I thought the caterpillar's head was a little too close to the center.[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2015/03/SV09192012015.jpg"><img class="size-full wp-image-901" src="http://thecloseupproject.com/wp-content/uploads/2015/03/SV09192012015.jpg" alt="In this unclouded image I had the image more center focused than I would have liked." /></a> In the original image I thought the caterpillar's head was a little too close to the center.</p>
 
 &nbsp;
 
-[caption id="attachment_900" align="alignnone" width="800"]<a href="http://thecloseupproject.com/wp-content/uploads/2015/03/Grid-example-4.jpg"><img class="size-full wp-image-900" src="http://thecloseupproject.com/wp-content/uploads/2015/03/Grid-example-4.jpg" alt="By capping the image to recompose the image I was able to create a much nicer image." width="800" height="533" /></a> By cropping to recompose the image I was able to create a much more interesting photograph.[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2015/03/Grid-example-4.jpg"><img class="size-full wp-image-900" src="http://thecloseupproject.com/wp-content/uploads/2015/03/Grid-example-4.jpg" alt="By capping the image to recompose the image I was able to create a much nicer image." /></a> By cropping to recompose the image I was able to create a much more interesting photograph.</p>
 
 The Rule of Thirds can be a simple, yet powerful tool that can be used to take your photography to the next  level.  So, the next time you head out to shoot, keep the Rule of Thirds in mind and  start playing around.  Try composing your images using various points or lines in the grid to see what you can come up with.  Try the same subject multiple ways.  Share your results with us over at on of our social media communities, hashtag #CUPruleofthirds.

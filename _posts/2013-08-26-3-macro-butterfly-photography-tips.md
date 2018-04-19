@@ -18,7 +18,7 @@ Images showing the butterflys’ entire wings, especially open, give you the ful
 
 Another reason to get this shot is to identify the species of butterfly later.  Even if you don’t want to use this shot in the end you will want to know what kind of butterfly it is.  Grab a field guide and match up the patterns to see what you have.
 
-[caption id="attachment_634" align="alignnone" width="800"]<a href="http://thecloseupproject.com/wp-content/uploads/2013/08/IMG_6084.jpg"><img class="size-full wp-image-634" alt="Show the full form and design of the butterfly." src="http://thecloseupproject.com/wp-content/uploads/2013/08/IMG_6084.jpg" width="800" height="640" /></a> Show the full form and design of the butterfly.[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2013/08/IMG_6084.jpg"><img class="size-full wp-image-634" alt="Show the full form and design of the butterfly." src="http://thecloseupproject.com/wp-content/uploads/2013/08/IMG_6084.jpg" /></a> Show the full form and design of the butterfly.</p>
 
 <strong>Isolate Elements In Your Subject</strong>
 
@@ -26,9 +26,9 @@ One of the greatest strengths of macro photography is the ability to bring small
 
 Some things to look for are elements in the wings, including shapes, colors and textures.  The face or head always makes a interesting shot.  It takes a lot of patience and finding the right butterfly to let you get in close to get some tight head shots.  The body in conjunction with the head also makes for compelling photos.  Play around to see what catches your eye.
 
-[caption id="attachment_635" align="alignnone" width="800"]<a href="http://thecloseupproject.com/wp-content/uploads/2013/08/IMG_7647.jpg"><img class="size-full wp-image-635" alt="The tight framing of this shot revels interesting details about the subjects head." src="http://thecloseupproject.com/wp-content/uploads/2013/08/IMG_7647.jpg" width="800" height="640" /></a> The tight framing of this shot revels interesting details about the subjects head.[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2013/08/IMG_7647.jpg"><img class="size-full wp-image-635" alt="The tight framing of this shot revels interesting details about the subjects head." src="http://thecloseupproject.com/wp-content/uploads/2013/08/IMG_7647.jpg" /></a> The tight framing of this shot revels interesting details about the subjects head.</p>
 
-[caption id="attachment_633" align="alignnone" width="800"]<a href="http://thecloseupproject.com/wp-content/uploads/2013/08/IMG_6049.jpg"><img class="size-full wp-image-633" alt="Isolating specific details of your subject allows the viewer to think about the subject differently.  In the end it will change the way a viewer thinks about a butterfly." src="http://thecloseupproject.com/wp-content/uploads/2013/08/IMG_6049.jpg" width="800" height="533" /></a> Isolating specific details of your subject allows the viewer to think about the subject differently. In the end it will change the way a viewer thinks about a butterfly.[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2013/08/IMG_6049.jpg"><img class="size-full wp-image-633" alt="Isolating specific details of your subject allows the viewer to think about the subject differently.  In the end it will change the way a viewer thinks about a butterfly." src="http://thecloseupproject.com/wp-content/uploads/2013/08/IMG_6049.jpg" /></a> Isolating specific details of your subject allows the viewer to think about the subject differently. In the end it will change the way a viewer thinks about a butterfly.</p>
 
 <strong>Play With Different Angles</strong>
 
@@ -36,4 +36,4 @@ Come at your subject from as many different angles as possible.  With all of th
 
 Another approach to try is putting things like branches, leaves and flowers between you and the subject in the frame.  This can add depth to your shot as well as interesting elements to your composition.  It also greatly increases the number of angles you have to work from.
 
-[caption id="attachment_636" align="alignnone" width="800"]<a href="http://thecloseupproject.com/wp-content/uploads/2013/08/IMG_8266.jpg"><img class="size-full wp-image-636" alt="The flower petals in the front of the image add depth and break up the composition of the butterflies wing slightly." src="http://thecloseupproject.com/wp-content/uploads/2013/08/IMG_8266.jpg" width="800" height="640" /></a> The flower petals in the front of the image add depth and break up the composition of the butterflies wing slightly.[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2013/08/IMG_8266.jpg"><img class="size-full wp-image-636" alt="The flower petals in the front of the image add depth and break up the composition of the butterflies wing slightly." src="http://thecloseupproject.com/wp-content/uploads/2013/08/IMG_8266.jpg" /></a> The flower petals in the front of the image add depth and break up the composition of the butterflies wing slightly.</p>

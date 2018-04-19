@@ -21,4 +21,4 @@ In hopes of getting some more engagement this time around we're opening up the c
 </ol>
 Upload as many images as you'd like.  The only rules are that the image must be considered macro or close-up.  In early November we'll select 3 photographs to feature on The Close-Up Project.
 
-[caption id="attachment_624" align="aligncenter" width="800"]<a href="http://thecloseupproject.com/wp-content/uploads/2013/08/20130730-IMG_1286.jpg"><img class="size-full wp-image-624" alt="Black Widow Spider Macro" src="http://thecloseupproject.com/wp-content/uploads/2013/08/20130730-IMG_1286.jpg" width="800" height="506" /></a> The infamous Black Widow Spider on her web.[/caption]
+<p class="post-image"><a href="http://thecloseupproject.com/wp-content/uploads/2013/08/20130730-IMG_1286.jpg"><img class="size-full wp-image-624" alt="Black Widow Spider Macro" src="http://thecloseupproject.com/wp-content/uploads/2013/08/20130730-IMG_1286.jpg" /></a> The infamous Black Widow Spider on her web.</p>

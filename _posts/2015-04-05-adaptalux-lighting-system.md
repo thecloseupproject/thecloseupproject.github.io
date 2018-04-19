@@ -12,7 +12,7 @@ For a few years now I have dreamed about building a system like this for myself.
 
 &nbsp;
 
-<a href="http://thecloseupproject.com/wp-content/uploads/2015/04/images.jpeg"><img class="alignnone size-full wp-image-934" src="http://thecloseupproject.com/wp-content/uploads/2015/04/images.jpeg" alt="images" width="294" height="172" /></a>
+<a href="http://thecloseupproject.com/wp-content/uploads/2015/04/images.jpeg"><img class="alignnone size-full wp-image-934" src="http://thecloseupproject.com/wp-content/uploads/2015/04/images.jpeg" alt="images" /></a>
 
 &nbsp;
 
@@ -26,7 +26,7 @@ Why are the multiple lighting sources important?  This is how you create emoti
 
 &nbsp;
 
-<a href="http://thecloseupproject.com/wp-content/uploads/2015/04/Unknown-1.jpeg"><img class="alignnone size-full wp-image-935" src="http://thecloseupproject.com/wp-content/uploads/2015/04/Unknown-1.jpeg" alt="Unknown-1" width="300" height="168" /></a>
+<a href="http://thecloseupproject.com/wp-content/uploads/2015/04/Unknown-1.jpeg"><img class="alignnone size-full wp-image-935" src="http://thecloseupproject.com/wp-content/uploads/2015/04/Unknown-1.jpeg" alt="Unknown-1" /></a>
 
 &nbsp;
 
@@ -34,7 +34,7 @@ One of the things that excites me the most about this product is being able to l
 
 &nbsp;
 
-<a href="http://thecloseupproject.com/wp-content/uploads/2015/04/images-2.jpeg"><img class="alignnone size-full wp-image-939" src="http://thecloseupproject.com/wp-content/uploads/2015/04/images-2.jpeg" alt="images-2" width="301" height="167" /></a>
+<a href="http://thecloseupproject.com/wp-content/uploads/2015/04/images-2.jpeg"><img class="alignnone size-full wp-image-939" src="http://thecloseupproject.com/wp-content/uploads/2015/04/images-2.jpeg" alt="images-2" /></a>
 
 &nbsp;
 
@@ -44,7 +44,7 @@ It's important to note that this system is based on constant light as opposed to
 
 &nbsp;
 
-<a href="http://thecloseupproject.com/wp-content/uploads/2015/04/Unknown.jpeg"><img class="alignnone size-full wp-image-936" src="http://thecloseupproject.com/wp-content/uploads/2015/04/Unknown.jpeg" alt="Unknown" width="259" height="194" /></a>
+<a href="http://thecloseupproject.com/wp-content/uploads/2015/04/Unknown.jpeg"><img class="alignnone size-full wp-image-936" src="http://thecloseupproject.com/wp-content/uploads/2015/04/Unknown.jpeg" alt="Unknown" /></a>
 
 &nbsp;
 
