@@ -6,7 +6,7 @@ author: Dave
 comments: true
 tags: [flower, Gear, insects, lens, macro, production]
 categories:
- - "reviews"
+ - "gear"
 ---
 Of all of the macro lenses I have the Canon 100mm f/2.8L IS USM is the lens I pull out of the bag more often than any other. There are many focal lengths on the market today and they each have their purpose.  You can get anywhere from a 40mm to 200mm lens capable of producing a 1:1 macro images. A 100mm lens can be used for many different subjects from plants to insects to tabletop photography, while making for a quick transitions between them.
 
