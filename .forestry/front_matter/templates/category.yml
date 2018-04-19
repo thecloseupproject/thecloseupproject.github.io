@@ -1,9 +1,9 @@
 ---
 pages:
+- _category/inspiration.md
 - _category/reviews.md
 - _category/originals.md
 - _category/macro-university.md
-- _category/inspiration.md
 - _category/gear.md
 hide_body: false
 is_partial: false
