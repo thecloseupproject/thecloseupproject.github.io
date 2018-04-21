@@ -7,9 +7,9 @@ categories:
 - originals
 author: Dave
 ---
-We did what they say you should not, at least as creatives.  We let life overwhelm us a bit and feel off from doing one of the creative thing we love, this site.  We have had some job changes, had kids and other life events.  These were all great things us.  Unfortunately The Close-Up Project suffered a bit.  We are not content with this though and are not going to leave the CUP to linger the slow internet death of an abandoned site, live but never to be touched again.  Not only are we getting back to this passion project, we are going to drive to make it one of the premier destination for macro and close-up photography.  A high bar I know.
+We did what they say you should not, at least as creatives.  We let life overwhelm us a bit and fell off from doing one of the creative things we love namely, this site.  Over the past couple years we have had some job changes, new babies and the other life events that busy families endure.  Although these were all wonderful things, The Close-Up Project suffered a bit as a result.  We are not content to let the CUP suffer a slow internet death however.  It will no longer be one of those blogs that lives on with stale, outdated content. Not only are we getting back into this passion project, we are going to work hard to make it one of the premier destination for macro and close-up photography.  A high bar we know.
 
-Among the things we are planning is bringing video content.  It has been a long time coming and we know it will add to site experience.  People love video, we love video and video should absolutely be a part of the CUP experience
+We have a lot planned for the re-booted site which we'll announce as time goes on but among the biggest things we are planning is to create some video content to go along with our written posts.  We absolutely believe that video should be part of the CUP experience and we hope you'll enjoy what we put together.
 
 <p class="post-image"><img src="/uploads/2018/04/21/IMG_9134.jpg"/>This is one of my favorite photos.  It took several days and thousands upon thousands of frames to produce.  I staked out my spot and waited.  Shoot and shoot.  It is one of the greatest feeling when you can bring the images you see in you mind to like.</p>
 
