@@ -1,10 +1,10 @@
 ---
 title: We're Back
 layout: post
-date: Invalid date
+date: 2018-04-23 00:00:00 -0400
 comments: true
 categories: []
-author: ''
+author: Dave
 ---
 We did what they say you should not, at least as creatives.  We let life overwhelm us a bit and feel off from doing one of the creative thing we love, this site.  We have had some job changes, had kids and other life events.  These were all great things us.  Unfortunately The Close-Up Project suffered a bit.  We are not content with this though and are not going to leave the CUP to linger the slow internet death of an abandoned site, live but never to be touched again.  Not only are we getting back to this passion project, we are going to drive to make it one of the premier destination for macro and close-up photography.  A high bar I know.
 
