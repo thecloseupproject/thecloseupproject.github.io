@@ -13,17 +13,15 @@ We have a lot planned for the re-booted site which we'll announce as time goes o
 
 <p class="post-image"><img src="/uploads/2018/04/21/IMG_9134.jpg"/>This is one of my favorite photos.  It took several days and thousands upon thousands of frames to produce.  I staked out my spot and waited.  Shoot and shoot.  It is one of the greatest feeling when you can bring the images you see in you mind to like.</p>
 
-In digital photography software is a big part of the craft in general.  The ability to manipulate photos in both color and composition is unreal.  This dates me a bit, many of you grew up in the digital era. Having come of age in the film era the ways digital has opened up news worlds continues to amaze me.  The advent of focus stacking is a prime example.  I personally loving working with color and color grading in my images.
+We will continue to focus on education in our Macro University section.  We'll be discussing techniques for when you're out in shooting as well as when you're back at your computer for post-processing.  We'll talk a lot about close-up and macro photography (obviously) but this section should help you with your general photography as well.  Our hope is this will equip you with the knowledge and skill to go create the images you can see in your head.
 
-Macro University will continue to be a big section.  All of the techniques for photography in general and close-up specifically will be covered as time goes on.  Our hope is this will equip you with the knowledge and skill to go create the images you can see in your head.
-
-We love technology and gear.  The new possibilities that are opened up with new advances drives use to make new, better and more creative art.  I am a self proclaimed nerd and gear head.  We we being do more gear reviews and how-to’s.  Finding how to use all new gear for close-up and macro will be a driving direction with in this section
+We love technology and gear.  The new possibilities that are opened up with new advances drives use to make new, better and more creative art.  I am a self proclaimed nerd and gear head so we'll be doing more gear reviews and how-to’s.  Of course we'll be focusing on how to use this gear for your close-up and macro photography.
 
 <p class="post-image"><img src="/uploads/2018/04/21/SV08172012078.jpg"/>My youngest son loves toads.  When he was 5 was working in my moms garden when he came across this little guy, may have been the size of a quarter.  Was able to grab a few shots while he was holding him with my macro lens.  Love the shot and love that every time I see it I smile and think of the little boy he used to be.</p>
 
-I love going through sites like 500PX and Instagram to look at the amazing work others are creating. Viewing the work of others is a great source of inspiration.  It is motivation as well as sparking ideas you will want to pursue.  We are going to have a photographer's spotlight section where we will share the people we are finding doing amazing work.
+Inspiration is a vital part of any photagraphers drive and dedication to the craft.  I love going through sites like 500PX and Instagram to look at the amazing work that others are creating. Viewing the work of others is a great source of inspiration.  It is motivation as well as sparking ideas you will want to pursue.  We're hoping to have a photographer's spotlight section where we take a closer look at a specific artist and their work
 
-What would you like to see on the site?  What gear and techniques interest you, have you curious?  Ask us any questions you may have or share anything with our community that can make us all better photographers.  Share the people work who inspires you, have you in awe.  Share your images with us through our flicker page or through Instagram with #CUProject.  We are beyond excited about the journey ahead and look forward to taking it with you.
+What would you like to see on the site?  What gear and techniques interest you or have you curious?  Ask us any questions you may have or share anything with our community that can make us all better photographers.  Share the people and work that inspires you or has you in awe.  Share your images with us through our flicker page or through Instagram with #CUProject.  We are beyond excited about the journey ahead and look forward to taking it with you.
 
 Happy Shooting,
 
