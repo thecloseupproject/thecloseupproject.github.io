@@ -8,13 +8,15 @@ categories: []
 ---
 Where are you going on vacation this year?  The shore, the mountains, visiting family, traveling outside the country or just taking some time off locally?  Wherever you find yourself take some time to get out and shoot.  Vacation help us to unwind and decompress.  A chance to recenter ourselves.  These moments help us to tap into our creative nature and for our creative nature to speed up recovery.
 
-I am going to the shore in Rehoboth, Delaware for a week this summer.  Am excited to spend some time with the family and decompress.  Sit with my feet up and have beer.  It has been a hectic year and I am feeling a bit burned out.   When I am on vacation I take a few times to get away and do some photography.
+Some years I have traveled more extensively than others.  This yearI am going to the shore in Rehoboth, Delaware for a week this summer.  Am excited to spend some time with the family and decompress.  Sit with my feet up and have beer.  It has been a hectic year and I am feeling a bit burned out.   When I am on vacation I try to take a few times to get away from the crew and do some photography.
 
-I have been down to Rehoboth several time so I already have a few ideas of where I want to do some shooting.   The Delaware Seashore State Park is about 20 min to the south.  It is a barrier island which is nice because it has ocean and bay sides to work with.  There is also more flexibility with the time of day I may want to go shooting.  Have both morning and evening options to work with is a plus.  I am starting to plan out my shoot.  Sometimes I like to just head out and see what I can find.  I would like to us some of the earlier morning light so I will have to have a plan about where I need to be.
+![Details on the door of a Medieval church in Toledo, Spain.](/uploads/2018/04/22/3810_2.jpg)I have been down to Rehoboth several time so I already have a few ideas of where I want to do some shooting.   The Delaware Seashore State Park is about 20 min to the south.  It is a barrier island which is nice because it has ocean and bay sides to work with.  There is also more flexibility with the time of day I may want to go shooting.  Have both morning and evening options to work with is a plus.  I am starting to plan out my shoot.  Sometimes I like to just head out and see what I can find.  I would like to us some of the earlier morning light so I will have to have a plan about where I need to be.
 
 The town itself has a lot of charm.  Sometimes just a walk and some street photography is perfect.  The boardwalk offers a lot of opportunities as well, especially at night with all of the lights.  Great chance to do some people blur.
 
 The one thing I am going to try and do this year is see if I can shoot at the fishing marina or local fish market.  I love the idea of all those fish laying in bins of ice.  The weathered hands of the fishermen and women.  The knives processing all of those fish.  Great colors and textures to work with.  The story that can be told with one of those images awesome.
+
+![A Lilly I can across in an amazing little public garden I came across in Madrid, Spain. ](/uploads/2018/04/22/3810.jpg)
 
 I like to keep my kit small on trips like this.  Moving a lot of gear around is heavy, takes up space and so on.  Also I want to be able to enjoy this, to to low key.  Don’t want it to feel like another big work shoot.
 
