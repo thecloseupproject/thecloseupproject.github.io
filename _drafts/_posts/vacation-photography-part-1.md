@@ -1,7 +1,7 @@
 ---
 title: Vacation Photography Part 1
 layout: post
-date: 4/23/2018
+date: 2018-04-24 00:00:00 -0400
 comments: true
 author: Dave
 categories: []
