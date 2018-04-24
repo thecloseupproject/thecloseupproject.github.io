@@ -1,10 +1,11 @@
 ---
 title: 'Vacation Photography Part 1: Why You Should Shoot on Vacation'
 layout: post
-date: 2018-04-24 00:00:00 -0400
+date: 2018-04-25 00:00:00 -0400
 comments: true
 author: Dave
-categories: []
+categories:
+- originals
 ---
 Are you planning a summer vacation this year?  No matter if you're headed to your favorite beach, mountain cabin, exotic foreign locale or even just staying home for some R&R try to take some time to focus on your photography and get out and shoot.  Vacations give us a chance to center ourselves while we unwind and decompress.  During these down-times we can refocus our creative energy towards the art that we love.   With work concerns put in the background for a while you can more easily focus on your creative vision.
 
