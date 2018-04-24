@@ -1,7 +1,7 @@
 ---
 title: 'Vacation Photography Part 1: Why You Should Shoot on Vacation'
 layout: post
-date: 2018-04-25 00:00:00 -0400
+date: 2018-04-24 00:00:00 -0400
 comments: true
 author: Dave
 categories:
