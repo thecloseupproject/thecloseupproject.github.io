@@ -16,7 +16,8 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
-  </div>    
+  </div> 
+  {% include _share.html %}
   <div class="post-categories">
   Posted In: 
   {% for category in page.categories %}
