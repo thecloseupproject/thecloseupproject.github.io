@@ -109,12 +109,11 @@ a.next:hover, a.previous:hover {background-color:$green; text-decoration:none; c
 
 /*** Share buttons ***/
 .share-page {
-    text-align: center;
-    background: #fff;
+    background: $light-grey;
     color: #000;
     padding: 8px 15px;
     border-radius: 5px;
-    margin: 1.5 * $spacing-unit 0;
+    margin: 15px 0;
 
     a {
         font-weight: 700;
@@ -122,7 +121,7 @@ a.next:hover, a.previous:hover {background-color:$green; text-decoration:none; c
         margin-left: 10px;
 
         &:hover {
-            border-bottom: 1px dashed #fff;
+	    color: $green;
         }
     }
 }
