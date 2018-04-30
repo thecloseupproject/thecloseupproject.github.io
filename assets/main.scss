@@ -12,6 +12,7 @@ $fb: #4267b2;
 $instagram: #8a47b0;
 $twitter: #1da1f2;
 $flickr: #ff0084;
+$reddit: #ff4500;
 
 header {background-color: #fff;}
 header.post-header {background-color:#fff;}
@@ -124,6 +125,10 @@ a.next:hover, a.previous:hover {background-color:$green; text-decoration:none; c
 	    color: $green;
         }
     }
+	
+	a.share-facebook{color: $fb;}
+	a.share-twitter{color: $twitter;}
+	a.share-reddit{color: $reddit;}
 }
 
 /*** Mailchimp ***/
