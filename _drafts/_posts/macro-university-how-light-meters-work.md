@@ -3,7 +3,8 @@ title: 'Macro University: How Light Meters Work'
 layout: post
 date: 2018-05-07 00:00:00 -0400
 comments: true
-categories: []
+categories:
+- macro-university
 author: Dave
 ---
 When you go to take an images with your camera it uses an internal light meter to determine the exposure settings that are best for the scene.  Have you ever wondered where those numbers come from or how the light meter is determining them?  The answers will affect how you shoot and what exposure you ultimately want to use.
