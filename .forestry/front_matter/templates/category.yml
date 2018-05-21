@@ -1,10 +1,4 @@
 ---
-pages:
-- _category/originals.md
-- _category/inspiration.md
-- _category/reviews.md
-- _category/macro-university.md
-- _category/gear.md
 hide_body: false
 is_partial: false
 fields:
@@ -28,3 +22,9 @@ fields:
   type: text
   hidden: false
   default: category
+pages:
+- _category/originals.md
+- _category/inspiration.md
+- _category/reviews.md
+- _category/macro-university.md
+- _category/gear.md
