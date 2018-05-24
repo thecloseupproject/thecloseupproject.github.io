@@ -4,7 +4,8 @@ layout: post
 date: 2018-05-24 00:00:00 -0400
 comments: true
 author: Dave
-categories: []
+categories:
+- macro-university
 ---
 Getting good details in black colored subjects can be a challenge.  It is easy to underexpose and clip the the blacks leaving no detail.  It is also possible to overexpose them cause them to feel washed out and hollow.  Getting that exposure just right can be the difference between a great image and a mediocre one.
 
