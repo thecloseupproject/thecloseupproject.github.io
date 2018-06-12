@@ -24,6 +24,7 @@ fields:
   label: Comments
   default: true
 pages:
+- _posts/how-we-run-the-close-up-project.md
 - _posts/2018-05-24-macro-university-exposing-for-blacks.md
 - _posts/2018-05-20-vacation-photography-part-2-planning-your-shoot.md
 - _posts/2018-05-07-macro-university-how-light-meters-work.md
